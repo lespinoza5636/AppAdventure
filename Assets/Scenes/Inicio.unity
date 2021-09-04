@@ -577,7 +577,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: -1.7, y: -301}
-  m_SizeDelta: {x: 2059.835, y: 372.1216}
+  m_SizeDelta: {x: 2264.4287, y: 372.1216}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &609908275
 MonoBehaviour:
@@ -612,7 +612,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Bienvenidos al Mundo
+  m_Text: 'Bienvenidos al Mundo de
 
     TEDU'
 --- !u!222 &609908276
