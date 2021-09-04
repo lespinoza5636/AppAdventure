@@ -2676,3 +2676,549 @@ Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19
   ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
   Import took 0.004088 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 0.227853 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000575 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063254 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000631 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.390202 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000591 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.214707 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000593 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.231936 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000613 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048716 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000755 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286506 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000658 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.322313 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000558 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075787 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000554 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.492850 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000764 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.122137 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000533 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.163640 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000608 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064613 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000520 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104079 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000541 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109576 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000591 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130525 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000606 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.230824 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000699 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.226567 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000669 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.287454 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000777 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072217 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000568 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.298637 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000921 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.137096 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000486 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.154281 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000486 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092462 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000462 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095202 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000653 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097720 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000499 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.301706 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000807 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.159379 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001002 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.233399 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000692 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.006237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083440 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000498 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.290565 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001049 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099989 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000499 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.295068 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000971 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096418 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000467 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.299638 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000701 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.105231 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000563 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286691 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000668 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200620 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000628 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.296086 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000535 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083056 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000467 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198505 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000457 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.497589 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000682 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094456 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000597 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.277954 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000765 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.115666 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000636 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.293570 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000670 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094290 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000488 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.296660 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000750 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.007678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092334 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000702 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.220891 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000460 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.171467 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000657 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094130 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000464 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198961 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000590 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.221745 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000574 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.266866 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000515 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093494 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000556 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.195994 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000464 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.264389 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000587 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.005112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160488 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000511 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.004515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178340 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000484 seconds
+  ERROR: Build asset version error: assets/scenes/inicio.unity in SourceAssetDB has modification time of '2021-09-04T16:56:44Z' while content on disk has modification time of '2021-09-04T16:56:45Z'
+  Import took 0.003760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.784129 seconds.
+  path: Assets/Scenes/Inicio.unity
+  artifactKey: Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Inicio.unity using Guid(5a28be4dbd016475fb88ceaa19ef2c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
