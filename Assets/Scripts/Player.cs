@@ -19,12 +19,14 @@ public class Player : MonoBehaviour
     bool isDown = false;
 
     private Rigidbody2D rb;
+    private Animator anim;
     
     // Start is called before the first frame update
     void Start()
     {
         //GetComponent es la principal forma de acceder a otros componentes. 
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -59,40 +61,48 @@ public class Player : MonoBehaviour
     public void clickLeft()
     {
         isLeft = true;
+        anim.SetBool("isLeft", true);
     }
     
     public void releaseLeft()
     {
         isLeft = false;
+        anim.SetBool("isLeft", false);
     }
     
     public void clickRight()
     {
         isRight = true;
+        anim.SetBool("isRight", true);
     }
     
     public void releaseRight()
     {
         isRight = false;
+        anim.SetBool("isRight", false);
     }
     
     public void clickUp()
     {
         isUp = true;
+        anim.SetBool("isUp", true);
     }
     
     public void releaseUp()
     {
         isUp = false;
+        anim.SetBool("isUp", false);
     }
     
     public void clickDown()
     {
         isDown = true;
+        anim.SetBool("isDown", true);
     }
     
     public void releaseDown()
     {
         isDown = false;
+        anim.SetBool("isDown", false);
     }
 }
