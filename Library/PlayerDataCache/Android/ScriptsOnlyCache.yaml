@@ -7,6 +7,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
+    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
@@ -16,6 +17,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.PaintableSceneViewGrid
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
@@ -27,6 +29,7 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnimatorStateTransitionInspector
     - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
@@ -68,19 +71,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1514}
     - Class: 114
-      Script: {instanceID: 2140}
+      Script: {instanceID: 2208}
     - Class: 114
-      Script: {instanceID: 2522}
+      Script: {instanceID: 2628}
     - Class: 114
-      Script: {instanceID: 2674}
+      Script: {instanceID: 2790}
     - Class: 114
-      Script: {instanceID: 2866}
+      Script: {instanceID: 3008}
     - Class: 114
-      Script: {instanceID: 3090}
+      Script: {instanceID: 3242}
     - Class: 114
-      Script: {instanceID: 3196}
+      Script: {instanceID: 3372}
     - Class: 114
-      Script: {instanceID: 4482}
+      Script: {instanceID: 4768}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -118,6 +121,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 50
       Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
@@ -137,19 +142,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1514}
     - Class: 114
-      Script: {instanceID: 2522}
+      Script: {instanceID: 2628}
     - Class: 114
-      Script: {instanceID: 2674}
+      Script: {instanceID: 2790}
     - Class: 114
-      Script: {instanceID: 2866}
+      Script: {instanceID: 3008}
     - Class: 114
-      Script: {instanceID: 3090}
+      Script: {instanceID: 3242}
     - Class: 114
-      Script: {instanceID: 3196}
+      Script: {instanceID: 3372}
     - Class: 114
-      Script: {instanceID: 3686}
+      Script: {instanceID: 3900}
     - Class: 114
-      Script: {instanceID: 3866}
+      Script: {instanceID: 4110}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -165,6 +170,8 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 19719996
       Script: {instanceID: 0}
     - Class: 156049354
       Script: {instanceID: 0}
@@ -295,6 +302,18 @@ ScriptsOnlyBuild:
     className: CinemachinePixelPerfect
   - hash:
       serializedVersion: 2
+      Hash: 0313238a3bcd1c5c48685cbe4af356a2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MegaDad
+    className: OverheadMegaDadController
+  - hash:
+      serializedVersion: 2
+      Hash: 8709c67aec795882d13832011f6c250f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperMap
+  - hash:
+      serializedVersion: 2
       Hash: c1d728126ff1918728036c59106d32b2
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -311,6 +330,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: EnumerableTestState
+  - hash:
+      serializedVersion: 2
+      Hash: 46978845e7207c0143361709136085d3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: TileObjectAnimator
   - hash:
       serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
@@ -349,10 +374,28 @@ ScriptsOnlyBuild:
     className: TimelineAsset
   - hash:
       serializedVersion: 2
+      Hash: c2ab9a84f1678e33cf5ae0434e69450f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperObject
+  - hash:
+      serializedVersion: 2
       Hash: 760787567e1b60d64a3e421ab83ee14a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: OverheadSpriteSorter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: OverheadSorterDynamic
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -403,6 +446,12 @@ ScriptsOnlyBuild:
     className: StandaloneInputModule
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperColliderComponent
+  - hash:
+      serializedVersion: 2
       Hash: f7858108331b563fb41b80b729297acd
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -419,6 +468,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 1b7e1a277e5e94208da53ce309c9499a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperTileLayer
   - hash:
       serializedVersion: 2
       Hash: 8e6ceabfd38a184413d69b7db56c89cc
@@ -541,6 +596,18 @@ ScriptsOnlyBuild:
     className: EventTrigger
   - hash:
       serializedVersion: 2
+      Hash: 2cc87dc29a773708b67b0a5221754b9d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperTile
+  - hash:
+      serializedVersion: 2
+      Hash: 569d86681e64dc5afb492c3f572d671d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperObjectLayer
+  - hash:
+      serializedVersion: 2
       Hash: 87cef3c82381dc586f6772c3e27561b6
     assemblyName: Unity.2D.Animation.Runtime.dll
     namespaceName: UnityEngine.Experimental.U2D.Animation
@@ -569,6 +636,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 1b7e1a277e5e94208da53ce309c9499a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperLayer
   - hash:
       serializedVersion: 2
       Hash: aba7b2852ef61d175dd9602e7723d5e5
@@ -673,10 +746,40 @@ ScriptsOnlyBuild:
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: OverheadSorterStatic
+  - hash:
+      serializedVersion: 2
+      Hash: 98ec445b7fd50e50f0de1e41c2bbf826
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperCustomProperties
+  - hash:
+      serializedVersion: 2
+      Hash: e9cf2499e6f4bd646587ea3d0e5ec807
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperImageLayer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: OverheadSorter
+  - hash:
+      serializedVersion: 2
       Hash: fd68d84f33fad85aac38f2739c0ee270
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 1b7e1a277e5e94208da53ce309c9499a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SuperTiled2Unity
+    className: SuperGroupLayer
   - hash:
       serializedVersion: 2
       Hash: e7a73f5f78ba6445195ec23b74a1ce2d
@@ -717,4 +820,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Inicio.unity
   - Assets/Scenes/Menu.unity
-  playerPath: /Users/lespinoza/Desarrollo/Unity/ISII/Prueba/AppAdventure/AppAdventureAPK.apk
+  playerPath: /Users/lespinoza/Desarrollo/Unity/ISII/Prueba/AppAdventure/AppAdventureAPK2.apk
